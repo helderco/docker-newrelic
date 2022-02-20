@@ -1,4 +1,4 @@
-docker-newrelic
-===============
+docker-newrelic (DEPRECATED)
+============================
 
 NewRelic Dockerfiles
